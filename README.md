@@ -1,9 +1,5 @@
-# 📌  •  Tango Company  •  📌  
+# 📌  •  Tango Company  • 📌  
 
-#H2 📜 • Description
+# 📜 • Description
 
->Author
-
-Here's a sentence with a footnote. [^1]
-
-[^1]: This is the footnote.
+A multi-purpose Discord bot, with features for ⚖ moderation, 🏅 levels, 🕹 mini-games, 🟢 reaction roles, 📄 embeds, and more!

@@ -17,7 +17,7 @@ A multi-purpose Discord bot, with features for
 
 Hi, I'm the author of Tango Company. I'm a JavaScript coder who makes Discord bots. You may contact me for inquiries and bot requests via one of my contacts.
 
-📞 • Contacts
+### 📞 • Contacts
 
-Discord: The Candadian God#9396
-Roblox: iAmSpeed140
+- Discord: The Candadian God#9396
+- Roblox: iAmSpeed140
